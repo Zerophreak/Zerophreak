@@ -1,8 +1,9 @@
 
 
     👋 Hi, I’m @Zerophreak aka Raymon
-    👀 I’m interested in software development Mobile and gamedevelopment. trying th make 
-    🌱 I’m currently learning the whole software dev cycle and game development.
+    👀 I’m interested in software development Mobile and  Cloud development. 
+    Trying to make make a App to improve the job participation of people with disabilities.
+    🌱 I’m currently learning the whole software dev cycle and trying to learn more about Cloud development.
     💞️ I’m looking to collaborate on ...
     📫 How to reach me by email only given when requested if you have something interesting to share
 
