@@ -1,6 +1,6 @@
 
 
-    👋 Hi, I’m @Zerophreak aka Raymon
+    👋 Hi, I’m Raymon
     👀 I’m interested in software development Mobile and  Cloud development. 
     Trying to make make a App to improve the job participation of people with disabilities.
     🌱 I’m currently learning the whole software dev cycle and trying to learn more about Mobile Development, Cloud development.
