@@ -1,6 +1,6 @@
     👋 Hi, I’m Raymon
     👀 I’m interested in software development Mobile and  Cloud development. 
-    🌱 I’m currently learning the whole software dev cycle and trying to learn more about Mobile Development, Cloud development.
+    🌱 I’m currently learning the whole software dev cycle and trying to learn more about Mobile Development, Web Developent Cloud development and Game Development.
     💞️ I’m looking to collaborate on ...
     📫 How to reach me by email only given when requested if you have something interesting to share
 <p>
