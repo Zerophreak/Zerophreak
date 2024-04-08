@@ -14,11 +14,10 @@ With this I hope to learn more and find someone or a company that would like to 
 <br>
 In my free time I like to play video games, ont only playing video games but also working on creating a videogame. Tabletop games and like to work on and play miniature games like Malifaux, Infinity and Warmachine. I'm also a fan of cycling and the Martial art Kendo.
 </p>
-<p>
+
 Current Projects:
 # Portfolio Website
 # Calculator app
-</p>
 <p>
 Learning Goals:
 <ul>
