@@ -27,35 +27,25 @@ Learning Goals:
     <Li>Build a website for the Portfolio.</Li>
 </ul>
 
-Completed Projects!:
-# IJSExpress
-<a href=""></a>
-# WasteWarriors
-<a href=""></a> 
-
 ## 🧰 Languages:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="Go" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 -->
 </p>
 
-<br>
-## 🧰 Frameworks: <br>
+## 🧰 Frameworks:
 <p align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
-<!--
-React Native
-Spring
-Laravel
--->    
+<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Native" height="40" style="vertical-align:top; margin:4px">
+<img src="https://spring.io/img/spring.svg" alt="Spring" height="40" style="vertical-align:top; margin:4px">
+<img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
 </p>
+
 ## 🧰 Tools:
 <p align="center">
 <!--
@@ -65,6 +55,14 @@ firebase
 -->    
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+Completed Projects!:
+# IJSExpress
+<a href=""></a>
+# WasteWarriors
+<a href=""></a> 
+
+
 
 <!---
 Zerophreak/Zerophreak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
