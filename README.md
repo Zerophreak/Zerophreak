@@ -3,7 +3,7 @@
     🌱 I’m currently learning the whole software dev cycle and trying to learn more about Mobile Development, Cloud development.
     💞️ I’m looking to collaborate on ...
     📫 How to reach me by email only given when requested if you have something interesting to share
-
+<p>
 About Me:<br>
 Hello mij name is Raymon, a software developer from the Netherlands. Trying to go the  self taught route where I can focus on software development on my own tempo
 Trying to focus on max 2 projects.
@@ -12,22 +12,22 @@ building my software developer portfolio. doing the self taught route looking in
 Trying to find ways to work for myself at home and freelance. Trying to focus on mobile development, trying to develop myself as a fullstack sotware developer so that i can work on both the front end and backend for mobile apps and web applications. Trying to focus on 2 projects at the moment.
 With this I hope to learn more and find someone or a company that would like to offer me a place to earn more practical experience. 
 <br>
-In my free time I like to play video games, ont only playing video games but also working on creating a videogame. Tabletop games and like to work on and play miniature games like Malifaux, Infinity and Warmachine. I'm also a fan of cycling and the Martial art Kendo. 
-<br>
-<br>
-<br>
+In my free time I like to play video games, ont only playing video games but also working on creating a videogame. Tabletop games and like to work on and play miniature games like Malifaux, Infinity and Warmachine. I'm also a fan of cycling and the Martial art Kendo.
+</p>
+<p>
 Current Projects:
 # Portfolio Website
 # Calculator app
-<br>
-<br>
+</p>
+<p>
 Learning Goals:
 <ul>
     <li>Mobile Development With Android</li>
     <li>Backend Development</li>
     <Li>Build a website for the Portfolio.</Li>
 </ul>
-
+</p>
+<p>
 Completed Projects!:
 # IJSExpress
 <a href=""></a>
@@ -36,7 +36,7 @@ Completed Projects!:
 #
 #
 #
-
+</p>
 ## 🧰 Languages:
 <!-
 <p align="center">
