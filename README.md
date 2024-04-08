@@ -4,20 +4,20 @@
     💞️ I’m looking to collaborate on ...
     📫 How to reach me by email only given when requested if you have something interesting to share
 
-About Me: 
+About Me:<br />
 Hello mij name is Raymon, a software developer from the Netherlands trying to build up his portfolio in software development. Trying to go the  self taught route where I can focus on software development on my own tempo
-Trying to focus on max 2 projects. 
+Trying to focus on max 2 projects. <br />
 building my software developer portfolio. doing the self taught route looking into my options to do something outside the standard college/university route. Trying to see how far I can get as self Taught.
 Trying to find ways to work for myself at home and freelance. Trying to focus on mobile development, trying to develop myself as a fullstack sotware developer so that i can work on both the front end and backend for mobile apps and web applications.
-With this I hope to learn more and find someone or a company that would like to over me more practical experience
-In my free time I like to play video games, ont only playing video games but also working on creating a videogame. Tabletop games and like to work on and play miniature games like Malifaux, Infinity and Warmachine. I'm also a fan of cycling and the Martial art Kendo.
+With this I hope to learn more and find someone or a company that would like to over me more practical experience <br />
+In my free time I like to play video games, ont only playing video games but also working on creating a videogame. Tabletop games and like to work on and play miniature games like Malifaux, Infinity and Warmachine. I'm also a fan of cycling and the Martial art Kendo. <br />
 
 
 Current Projects:
 # Portfolio Website
 # Calculator app
-
-
+<br />
+<br />
 Learning Goals:
 # Mobile Development With Android.
 # Backend Development.
