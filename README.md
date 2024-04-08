@@ -18,26 +18,23 @@ In my free time I like to play video games, ont only playing video games but als
 Current Projects:
 # Portfolio Website
 # Calculator app
-<p>
+
+
 Learning Goals:
 <ul>
     <li>Mobile Development With Android</li>
     <li>Backend Development</li>
     <Li>Build a website for the Portfolio.</Li>
 </ul>
-</p>
-<p>
+
 Completed Projects!:
 # IJSExpress
 <a href=""></a>
 # WasteWarriors
 <a href=""></a> 
-#
-#
-#
-</p>
 ## 🧰 Languages:
 <!-
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
@@ -45,8 +42,9 @@ Completed Projects!:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="PHP" height="40" style="vertical-align:top; margin:4px">
-
+-->
 </p>
+
 <br>
 ## 🧰 Frameworks: <br>
 <p align="center">
