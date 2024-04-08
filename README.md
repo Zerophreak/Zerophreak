@@ -22,11 +22,18 @@ Current Projects:
 <br>
 <br>
 Learning Goals:
-# Mobile Development With Android.
-# Backend Development.
-# Build a website for the Portfolio.
-<br>
-<br/>
+<ul>
+    <li>Mobile Development With Android</li>
+    <li>Backend Development</li>
+    <Li>Build a website for the Portfolio.</Li>
+</ul>
+
+Completed Projects!:
+# IJSExpress
+# WasteWarriors
+#
+#
+#
 
 ## 🧰 Languages:
 <!-
