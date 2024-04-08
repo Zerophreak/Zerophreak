@@ -16,12 +16,12 @@ Learning Goals:
 <br />
 
 ## 🧰 Languages:
-
+<!-
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">C#
-Go
-Kotlin
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
+<img src="Go Logo Blue.svg" alt="Go" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px"> Kotlin
 JAVA
 PHP
 
