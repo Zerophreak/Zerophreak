@@ -49,8 +49,8 @@ Completed Projects!:
 ## 🧰 Frameworks: <br>
 <p align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
+<img src="" alt="" height="40" style="vertical-align:top; margin:4px">
 <!--
 React Native
 Spring
