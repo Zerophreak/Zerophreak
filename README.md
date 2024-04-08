@@ -30,7 +30,9 @@ Learning Goals:
 
 Completed Projects!:
 # IJSExpress
+<a href=""></a>
 # WasteWarriors
+<a href=""></a> 
 #
 #
 #
@@ -49,15 +51,14 @@ Completed Projects!:
 <br>
 ## 🧰 Frameworks: <br>
 <p align="center">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React.JS" height="40" style="vertical-align:top; margin:4px"> React.js
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
 <img src="" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
+<!--
 React Native
 Spring
 Laravel
-    
--->
-    
+-->    
 </p>
 ## 🧰 Tools:
 <p align="center">
@@ -65,10 +66,9 @@ Laravel
 Docker
 AWS 
 firebase
-
+-->    
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
 
 <!---
 Zerophreak/Zerophreak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
