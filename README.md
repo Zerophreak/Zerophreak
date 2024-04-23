@@ -5,7 +5,7 @@
     📫 How to reach me by email only given when requested if you have something interesting to share
 <p>
 About Me:<br>
-Hello mij name is Raymon, a software developer from the Netherlands. Trying to go the  self taught route where I can focus on software development on my own tempo
+Hello my name is Raymon, a software developer from the Netherlands. Trying to go the  self taught route where I can focus on software development on my own tempo
 Trying to focus on max 2 projects.
 <br>
 building my software developer portfolio. doing the self taught route looking into my options to do something outside the standard college/university route. Trying to see how far I can get as self Taught.
@@ -17,7 +17,7 @@ In my free time I like to play video games, ont only playing video games but als
 
 Current Projects:
 # Portfolio Website
-# Calculator app
+# Jamming App
 
 
 Learning Goals:
