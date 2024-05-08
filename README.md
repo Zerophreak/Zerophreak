@@ -40,7 +40,7 @@ Learning Goals:
 ## 🧰 Frameworks:
 <p align="center">
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
-<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Native" height="40" style="vertical-align:top; margin:4px">
+<!-- <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Native" height="40" style="vertical-align:top; margin:4px">--
 <img src="https://spring.io/img/spring.svg" alt="Spring" height="40" style="vertical-align:top; margin:4px">
 <img src="https://picperf.io/https://laravelnews.s3.amazonaws.com/images/laravel-featured.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
 </p>
