@@ -23,8 +23,8 @@ Current Projects:
 Learning Goals:
 <ul>
     <li>Mobile Development With Android</li>
-    <li>Backend Development</li>
-    <Li>Build a website for the Portfolio.</Li>
+    <li>Game Development</li>
+    <Li> Join a Gamejam or find a gamejam team</Li>
 </ul>
 
 ## 🧰 Languages:
