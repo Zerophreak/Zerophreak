@@ -17,7 +17,7 @@ In my free time I like to play video games, ont only playing video games but als
 
 Current Projects:
 # Portfolio Website
-# Jamming App
+# GameJam: Safe In Our World Mental Health Game Dev Champions 2024
 
 
 Learning Goals:
