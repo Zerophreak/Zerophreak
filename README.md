@@ -24,7 +24,7 @@ Learning Goals:
 <ul>
     <li>Mobile Development With Android</li>
     <li>Game Development</li>
-    <Li> Join a Gamejam or find a gamejam team</Li>
+    <Li>Build my first game</Li>
 </ul>
 
 ## 🧰 Languages:
