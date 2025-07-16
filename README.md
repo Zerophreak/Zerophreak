@@ -16,8 +16,8 @@ In my free time I like to play video games, ont only playing video games but als
 </p>
 
 Current Projects:
-# Portfolio Website
-# GameJam: Safe In Our World Mental Health Game Dev Champions 2024
+# Turn based Dungeon gamejam
+# Pirate Software gamejam 17 
 
 
 Learning Goals:
@@ -34,7 +34,6 @@ Learning Goals:
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="Go" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 Frameworks:
