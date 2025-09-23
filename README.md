@@ -16,7 +16,7 @@ In my free time I like to play video games, ont only playing video games but als
 </p>
 
 Current Projects:
-# Starfighter:Dawm Game
+# Starfighter:Dawn Game
 # 
 
 
@@ -48,7 +48,6 @@ Learning Goals:
 
 ## 🧰 Tools:
 <p align="center">
-<img src="https://www.vhv.rs/viewpic/bTxbJi_docker-logo-hd-png-download/#" alt="Docker" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="GODOT4" height="40" style="vertical-align:top; margin:4px">
 <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Autodesk Inventor" height="40" style="vertical-align:top; margin:4px">
