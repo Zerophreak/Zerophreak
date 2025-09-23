@@ -25,39 +25,46 @@ Learning Goals:
     <li>Mobile Development With Android</li>
     <li>Game Development</li>
     <Li>Build my first game</Li>
+    <li>Learn Blender</li>
+    <Li>Learn GODOT</Li>
 </ul>
 
 ## 🧰 Languages:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40" style="vertical-align:top; margin:4px">
-<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="Go" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 Frameworks:
 <p align="center">
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="" style="" align"" margin="" >
-<img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Native" height="40" style="vertical-align:top; margin:4px">
+<img src="[https://cdn.iconscout.com/icon/free/png-512/free-react-1-282599.png?f=webp&w=256](https://commons.wikimedia.org/wiki/File:React-icon.svg)" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.vhv.rs/viewpic/iTiiwox_django-development-png-transparent-django-logo-png-download/#" alt="Django" height="40" style= Vertical-align:top; margin:4px>
+<img src="" alt="React Native" height="40" style="vertical-align:top; margin:4px">
 <img src="https://spring.io/img/spring.svg" alt="Spring" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 Tools:
 <p align="center">
-<!--
-Docker
-AWS 
-firebase
--->    
+<img src="https://www.vhv.rs/viewpic/bTxbJi_docker-logo-hd-png-download/#" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="GODOT4" height="40" style="vertical-align:top; margin:4px">
+<img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Autodesk Inventor" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="Gimp" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">Photoshop
+<img src="https://tapggc.org/_astro/Aseprite.DK35zxJY.png" alt="Aesprite" height="40" style="vertical-align:top; margin:4px">Aesprite  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 Completed Projects!:
 # IJSExpress
 <a href=""></a>
 # WasteWarriors
+<a href=""></a> 
+# Pirate JAM 15
 <a href=""></a> 
 
 
