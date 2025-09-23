@@ -16,8 +16,8 @@ In my free time I like to play video games, ont only playing video games but als
 </p>
 
 Current Projects:
-# Turn based Dungeon gamejam
-# Pirate Software gamejam 17 
+# Starfighter:Dawm Game
+# 
 
 
 Learning Goals:
@@ -53,8 +53,8 @@ Learning Goals:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="GODOT4" height="40" style="vertical-align:top; margin:4px">
 <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Autodesk Inventor" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="Gimp" height="40" style="vertical-align:top; margin:4px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">Photoshop
-<img src="https://tapggc.org/_astro/Aseprite.DK35zxJY.png" alt="Aesprite" height="40" style="vertical-align:top; margin:4px">Aesprite  
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="40" style="vertical-align:top; margin:4px">
+<img src="https://tapggc.org/_astro/Aseprite.DK35zxJY.png" alt="Aesprite" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
 </p>
@@ -64,7 +64,9 @@ Completed Projects!:
 <a href=""></a>
 # WasteWarriors
 <a href=""></a> 
-# Pirate JAM 15
+# PirateSoftware gamejam 15
+<a href=""></a> 
+# PirateSoftware gamejam 16
 <a href=""></a> 
 
 
