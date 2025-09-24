@@ -17,7 +17,7 @@ In my free time I like to play video games, ont only playing video games but als
 
 Current Projects:
 # Starfighter:Dawn Game
-# 
+# Game Design
 
 
 Learning Goals:
