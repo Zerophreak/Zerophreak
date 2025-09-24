@@ -58,7 +58,7 @@ Learning Goals:
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-Completed Projects!:
+## 🧰 Completed Projects:
 # IJSExpress
 <a href=""></a>
 # WasteWarriors
