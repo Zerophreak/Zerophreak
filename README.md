@@ -16,7 +16,7 @@ In my free time I like to play video games, ont only playing video games but als
 </p>
 
 Current Projects:
-# Starborn: Dawn
+# StarTrigger Dawn
 # KamuyKamuy
 # Robotica Lost
 # Game Design
