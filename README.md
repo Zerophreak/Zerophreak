@@ -17,10 +17,11 @@ In my free time I like to play video games, ont only playing video games but als
 
 Current Projects:
 # StarTrigger: Dawn
-# KamuyKamuy
+# Vtuber Model
+
+Learning projects:
 # Game Art
 # Game Design
-
 
 Learning Goals:
 <ul>
