@@ -12,12 +12,14 @@ building my software developer portfolio. doing the self taught route looking in
 Trying to find ways to work for myself at home and freelance. Trying to focus on mobile development, trying to develop myself as a fullstack sotware developer so that i can work on both the front end and backend for mobile apps and web applications. Trying to focus on 2 projects at the moment.
 With this I hope to learn more and find someone or a company that would like to offer me a place to earn more practical experience. 
 <br>
-In my free time I like to play video games, ont only playing video games but also working on creating a videogame. Tabletop games and like to work on and play miniature games like Malifaux, Infinity and Warmachine. I'm also a fan of cycling and the Martial art Kendo.
+In my free time I like to play video games, ont only playing video games but also working on creating a videogame. Tabletop games and like to work on and play miniature games like Malifaux, Infinity and Warmachine. I'm also a fan of cycling and the Martial art like Kendo.
 </p>
 
 Current Projects:
-# StarTrigger: Dawn
+# Well's Journey
+# KamuyKamuy
 # Vtuber Model
+
 
 Learning projects:
 # Game Art
