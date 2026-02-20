@@ -19,19 +19,9 @@ Current Projects:
 # Well's Journey
 # Game Making Tools Jam
 
-
 Learning projects:
 # Game Art
 # Game Design
-
-Learning Goals:
-<ul>
-    <li>Mobile Development With Android</li>
-    <li>Game Development</li>
-    <Li>Build my first game</Li>
-    <li>Learn Blender</li>
-    <Li>Learn GODOT</Li>
-</ul>
 
 ## 🧰 Languages:
 <p align="center">
@@ -62,15 +52,6 @@ Learning Goals:
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## 🧰 Completed Projects:
-# IJSExpress
-<a href=""></a>
-# WasteWarriors
-<a href=""></a> 
-# PirateSoftware gamejam 15
-<a href=""></a> 
-# PirateSoftware gamejam 16
-<a href=""></a> 
 
 
 
