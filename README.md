@@ -17,7 +17,6 @@ In my free time I like to play video games, ont only playing video games but als
 
 Current Projects:
 # Well's Journey
-# KamuyKamuy
 # Vtuber Model
 
 
