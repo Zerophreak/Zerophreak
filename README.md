@@ -17,7 +17,7 @@ In my free time I like to play video games, ont only playing video games but als
 
 Current Projects:
 # Well's Journey
-# Vtuber Model
+# Game Making Tools Jam
 
 
 Learning projects:
