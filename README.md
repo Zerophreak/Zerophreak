@@ -12,7 +12,6 @@ In my free time I like to play video games, ont only playing video games but als
 </p>
 
 Current Projects:
-# Well's Journey
 # Game Making Tools Jam
 
 Learning projects:
