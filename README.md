@@ -26,19 +26,18 @@ Learning projects:
 
 ## 🧰 Frameworks:
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1024px-React_Logo_SVG.svg.png" alt="React.JS" height="40" style="vertical-align:top; margin:4px">
     <img src="https://spring.io/img/spring.svg" alt="Spring" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🧰 Tools:
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender" height="40" style="vertical-align:top; margin:4px"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="GODOT4" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://blogs.autodesk.com/inventor/wp-content/uploads/sites/73/2017/09/inventor-icon-128px-hd.png" alt="Autodesk Inventor" height="40" style="vertical-align:top; margin:4px">
     <img src="https://tapggc.org/_astro/Aseprite.DK35zxJY.png" alt="Aesprite" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Android_Studio_icon_%282023%29.svg" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="40" style="vertical-align:top; margin:4px">
+    
 </p>
 
 
