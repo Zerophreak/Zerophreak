@@ -18,7 +18,7 @@ Learning projects:
 # Game Art
 # Game Design
 
-<! ## 🧰 Languages:
+## 🧰 Languages:
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="40" style="vertical-align:top; margin🔢px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40" style="vertical-align:top; margin🔢px">
