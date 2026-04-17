@@ -12,7 +12,7 @@ In my free time I like to play video games, ont only playing video games but als
 </p>
 
 Current Projects:
-# Game Making Tools Jam
+# Startrigger: dawn
 
 Learning projects:
 # Game Art
