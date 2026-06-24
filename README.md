@@ -12,7 +12,8 @@ In my free time I like to play video games, ont only playing video games but als
 </p>
 
 Current Projects:
-# Startrigger: dawn
+# Wells Journey.
+# Work Project.
 
 Learning projects:
 # Game Art
